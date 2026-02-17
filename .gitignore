@@ -1,6 +1,9 @@
-# parqet files
+.env
+.env_encoded
+# parquet files
 *.parquet
-# CSV files
+# files
+*.json
 *.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
